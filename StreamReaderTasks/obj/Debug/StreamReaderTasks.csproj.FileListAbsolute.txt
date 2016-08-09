@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderTasks\StreamReaderTasks\bin\Debug\StreamReaderTasks.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderTasks\StreamReaderTasks\bin\Debug\StreamReaderTasks.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderTasks\StreamReaderTasks\bin\Debug\StreamReaderTasks.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderTasks\StreamReaderTasks\obj\Debug\StreamReaderTasks.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StreamReaderTasks\StreamReaderTasks\obj\Debug\StreamReaderTasks.pdb
